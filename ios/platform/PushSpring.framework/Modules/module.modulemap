@@ -1,0 +1,6 @@
+framework module PushSpring {
+  umbrella header "PushSpring.h"
+
+  export *
+  module * { export * }
+}

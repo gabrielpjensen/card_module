@@ -1,0 +1,6 @@
+framework module GJPGLX {
+  umbrella header "GJPGLX.h"
+
+  export *
+  module * { export * }
+}

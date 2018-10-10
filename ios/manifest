@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: Card
+author: Topothesia Enargia
+license: Specify your license
+copyright: Copyright (c) 2018 by Your Company
+
+# these should not be edited
+name: Card
+moduleid: a.card
+guid: 730278f5-e194-4f7a-a3bb-a08b16229585
+platform: iphone
+minsdk: 7.4.0.GA
