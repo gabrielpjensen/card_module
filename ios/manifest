@@ -5,7 +5,7 @@
 version: 1.0.0
 apiversion: 2
 architectures: armv7 arm64 i386 x86_64
-description: Card
+description: Card module is a test utility.
 author: Topothesia Enargia
 license: Specify your license
 copyright: Copyright (c) 2018 by Your Company
